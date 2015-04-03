@@ -1,0 +1,6 @@
+/home/ccx/Projects/QuickSort/QuickSort/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ccx/Projects/QuickSort/QuickSort/obj/x86/Debug/QuickSort.gtk-gui.gui.stetic
+/home/ccx/Projects/QuickSort/QuickSort/bin/Debug/QuickSort.exe.mdb
+/home/ccx/Projects/QuickSort/QuickSort/bin/Debug/QuickSort.exe
+/home/ccx/Projects/QuickSort/QuickSort/obj/x86/Debug/QuickSort.exe
+/home/ccx/Projects/QuickSort/QuickSort/obj/x86/Debug/QuickSort.exe.mdb

@@ -1,0 +1,6 @@
+/home/ccx/Projects/LonelyInteger/LonelyInteger/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ccx/Projects/LonelyInteger/LonelyInteger/obj/x86/Debug/LonelyInteger.gtk-gui.gui.stetic
+/home/ccx/Projects/LonelyInteger/LonelyInteger/bin/Debug/LonelyInteger.exe.mdb
+/home/ccx/Projects/LonelyInteger/LonelyInteger/bin/Debug/LonelyInteger.exe
+/home/ccx/Projects/LonelyInteger/LonelyInteger/obj/x86/Debug/LonelyInteger.exe
+/home/ccx/Projects/LonelyInteger/LonelyInteger/obj/x86/Debug/LonelyInteger.exe.mdb
